@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Rakshita B Gudagudi 👋
 
-<!--
-**RakshitaBG/RakshitaBG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Final Year Student
 
-Here are some ideas to get you started:
+💻 Aspiring Software Engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 Interested in Full Stack Development
+
+☁️ Learning Cloud Computing
+
+🤖 Passionate about Machine Learning
+
+## 🚀 Projects
+- 🛒 E-Commerce Frontend
+- 💎 Diamond Price Prediction using Machine Learning
+- 🤖 Neural Navigator AI (In Progress)
+
+## 🛠️ Skills
+- Python
+- HTML
+- CSS
+- JavaScript
+- React
+- FastAPI
+- Machine Learning
+- Git & GitHub
+
+## 📫 Connect with me
+LinkedIn:
+https://www.linkedin.com/in/rakshita-gudagudi-91197437a?utm_source=share_via&utm_content=profile&utm_medium=member_android
