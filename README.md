@@ -132,7 +132,7 @@ To start my career as a **Cloud / DevOps Engineer** and grow toward **SRE / Plat
 ## 🤝 Let's Connect
 
 - 💼 LinkedIn: [Rakshita Gudagudi](https://www.linkedin.com/in/rakshita-gudagudi-91197437a)
-- 🌐 Portfolio: [My Portfolio](https://portfolio-app-9wbd.onrender.com)
+- 🌐 Portfolio: [View My Portfolio](https://portfolio-app-9wbd.onrender.com)
 - 📧 Email: rakshitagudugudi@gmail.com
 
 ---
