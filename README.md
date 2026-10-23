@@ -1,142 +1,117 @@
-# Hi, I'm Rakshita B Gudagudi 👋
+Hi, I'm Rakshita B Gudagudi 👋
 
-### 🎓 BCA Final Year Student | ☁️ Aspiring Cloud & DevOps Engineer
+🎓 BCA Final Year Student | 💻 Aspiring Technology Professional
 
-I am a final-year BCA student focused on building a career in **Cloud Computing and DevOps**.
+I'm a final-year BCA student passionate about technology, software development, problem-solving, and continuous learning.
 
-I am currently developing my skills in **AWS, Linux, Git, Docker, Kubernetes, CI/CD, cloud infrastructure, and monitoring** while building practical projects to strengthen my engineering skills.
+I enjoy exploring different areas of IT, developing practical projects, and learning how technologies work together to solve real-world problems. My interests span software development, cloud computing, artificial intelligence, machine learning, and modern application development.
 
-I also have a foundation in **Python, Full Stack Development, and Machine Learning**, which helps me solve problems from different technical perspectives.
+I believe in learning by building, improving through experience, and staying curious about emerging technologies. 🚀
 
----
+💻 Technical Skills
 
-## ☁️ Cloud & DevOps Focus
+Programming Languages
 
-- ☁️ Cloud Computing — AWS
-- 🐧 Linux & Networking
-- 🔧 Git & GitHub
-- 🐳 Docker
-- ☸️ Kubernetes
-- 🔄 CI/CD
-- 🏗️ Infrastructure & Deployment
-- 📊 Monitoring & Observability
-- 🔐 Cloud Security Fundamentals
-
----
-
-## 💻 Technical Skills
-
-### Programming
 - Python
 - Java
 - C
 - Dart
 - JavaScript
 
-### Web & Backend
-- HTML
-- CSS
-- JavaScript
+Web & Backend Development
+
+- HTML, CSS, JavaScript
 - React
 - FastAPI
 - REST APIs
 
-### Cloud & DevOps
+Cloud & DevOps
+
 - AWS
-- Linux
-- Git
-- GitHub
+- Linux & Networking Fundamentals
+- Git & GitHub
 - Docker
 - Kubernetes
 - CI/CD
-- Prometheus
+- Prometheus & Monitoring
 
-### Data & Machine Learning
-- Python
+Data & Machine Learning
+
 - NumPy
 - Pandas
 - Scikit-learn
-- Machine Learning
+- Machine Learning Fundamentals
 
-### Database
+Databases & Tools
+
 - SQL
 - SQLite
 - Firebase
 
----
+🚀 Featured Projects
 
-## 🚀 Featured Projects
+☁️ NexaCloudOps
 
-### ☁️ NexaCloudOps
-A Cloud & DevOps-focused platform for monitoring system resources, managing deployments, tracking alerts and incidents, and viewing application logs.
+A cloud and DevOps-focused platform designed to explore system monitoring, deployment management, alerts, incidents, and application logs.
 
-**Tech:** FastAPI • React • SQL • Prometheus • Python • REST APIs
+Tech: Python, FastAPI, React, SQL, Prometheus
 
----
+🛡️ CyberSentinelAI
 
-### 🛡️ CyberSentinelAI
-An AI-powered cybersecurity project focused on exploring intelligent approaches to cybersecurity monitoring and threat-related analysis.
+An AI-focused cybersecurity project exploring intelligent approaches to security monitoring and threat-related analysis.
 
-**Tech:** Python • AI/ML • FastAPI • React
+Tech: Python, AI/ML, FastAPI, React
 
----
+🧠 NexaKnowledgeAI
 
-### 🧠 NexaKnowledgeAI
-An AI-powered learning platform designed to work with educational content and provide intelligent learning assistance.
+An AI-powered learning platform designed to provide intelligent assistance using educational content and retrieval-augmented generation.
 
-**Tech:** Python • Streamlit • Gemini • RAG • ChromaDB
+Tech: Python, Streamlit, Gemini API, RAG, ChromaDB
 
----
+🤖 AI Code Assistant
 
-### 🤖 AI Code Assistant
-An AI-powered coding assistant that generates code and provides developer-focused assistance through an API-based application.
+An AI-powered application designed to assist developers with code generation and coding-related tasks through an API-based interface.
 
-**Tech:** Python • FastAPI • React • Gemini API
+Tech: Python, FastAPI, React, Gemini API
 
----
+💎 Diamond Price Prediction
 
-### 💎 Diamond Price Prediction
-A Machine Learning project that predicts diamond prices using regression techniques and data preprocessing.
+A machine learning project that predicts diamond prices using data preprocessing and regression techniques.
 
-**Tech:** Python • Pandas • NumPy • Scikit-learn • Machine Learning
+Tech: Python, Pandas, NumPy, Scikit-learn
 
----
+🛒 E-Commerce Frontend
 
-### 🛒 E-Commerce Frontend
-A responsive e-commerce frontend focused on modern UI design and user experience.
+A responsive e-commerce frontend focused on interface design, usability, and user experience.
 
-**Tech:** HTML • CSS • JavaScript
+Tech: HTML, CSS, JavaScript
 
----
+📚 Currently Learning
 
-## 📚 Currently Learning
+- Cloud computing and AWS
+- Linux and networking
+- Docker and Kubernetes
+- CI/CD and deployment automation
+- Infrastructure as Code
+- Monitoring and observability
+- Python automation
+- Software development best practices
+- AI and machine learning concepts
 
-- ☁️ AWS Cloud
-- 🐧 Linux
-- 🐳 Docker
-- ☸️ Kubernetes
-- 🔄 CI/CD
-- 🏗️ Infrastructure as Code
-- 📊 Cloud Monitoring
-- 🔐 Cloud & DevOps Security
-- 🐍 Python Automation
+🎯 My Goal
 
----
+To build a strong foundation in technology, gain practical industry experience, and contribute to meaningful projects across software development, IT, cloud computing, AI, or other technical domains.
 
-## 🎯 Career Goal
+I'm open to learning opportunities, internships, and entry-level roles where I can apply my skills, collaborate with others, and continue growing as a technology professional.
 
-To start my career as a **Cloud / DevOps Engineer** and grow toward **SRE / Platform Engineering**, building reliable, scalable, and automated cloud infrastructure.
+🤝 Let's Connect
 
----
-
-## 🤝 Let's Connect
-
-- 💼 LinkedIn: [Rakshita Gudagudi](https://www.linkedin.com/in/rakshita-gudagudi-91197437a)
-- 🌐 Portfolio: [View My Portfolio](https://portfolio-app-9wbd.onrender.com)
+- 💼 LinkedIn: "Connect with me" (https://www.linkedin.com/in/rakshita-gudagudi-91197437a/)
+- 🌐 Portfolio: "Explore my portfolio" (https://portfolio-app-9wbd.onrender.com)
 - 📧 Email: rakshitagudugudi@gmail.com
 
 ---
 
 ⭐ Thanks for visiting my profile!
 
-**☁️ Learn • Build • Deploy • Automate**
+Learn • Build • Explore • Grow 🚀
