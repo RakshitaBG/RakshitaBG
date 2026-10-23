@@ -115,3 +115,10 @@ I'm open to learning opportunities, internships, and entry-level roles where I c
 ⭐ Thanks for visiting my profile!
 
 Learn • Build • Explore • Grow 🚀
+
+
+📊 GitHub Statistics
+
+"GitHub Stats" (https://github-readme-stats.vercel.app/api?username=RakshitaBG&show_icons=true&theme=tokyonight&hide_border=true)
+
+"Top Languages" (https://github-readme-stats.vercel.app/api/top-langs/?username=RakshitaBG&layout=compact&theme=tokyonight&hide_border=true)
